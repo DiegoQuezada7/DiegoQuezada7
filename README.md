@@ -48,7 +48,7 @@ Me encantaría saber de ti y discutir cualquier proyecto o idea.
 
 | Plataforma | Enlace |
 | :--- | :--- |
-| 📧 **Correo Electrónico** | [tu.correo@ejemplo.com](mailto:tu.correo@ejemplo.com) |
-| 💼 **LinkedIn** | [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario-linkedin/) |
-| 🐦 **Twitter/X** | [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario-twitter) |
-| 🌐 **Mi Sitio Web** | [MiPortafolio.com](https://www.tuportafolio.com) |
+| 📧 **Correo Electrónico** |  |
+| 💼 **LinkedIn** | |
+| 🐦 **Twitter/X** | [ |
+| 🌐 **Mi Sitio Web** | 
