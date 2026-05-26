@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Diego Quezada, Desarrollador/a 
+# 👋 ¡Hola! Soy Diego Quezada, Desarrollador 
 
-Me apasiona construir soluciones web utilizando tecnologías modernas y eficientes. Actualmente, estoy enfocado en aprender a realizar aplicaciones o páginas web y siempre estoy abierto/a a colaborar en proyectos interesantes.
+Estoy dispuesto a trabajar en cualquier proyecto en el que me incluyan, puedo defenderme en casi todos los lenguajes.
 sexo
 ---
 
